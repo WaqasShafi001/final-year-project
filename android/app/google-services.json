@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143453357042",
+    "project_id": "poscas-eb0a8",
+    "storage_bucket": "poscas-eb0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143453357042:android:63cb1ff1da1ddfdad0216b",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.fluttermultigrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143453357042-maa1k8q2acsrm3ki1jp2vpsfjq547m4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panaceasoft.fluttermultigrocery",
+            "certificate_hash": "8ecde8277b6274fc39af910d5ca4248a4fd49524"
+          }
+        },
+        {
+          "client_id": "143453357042-qvlepd1urrdgge6lqml9gddsonnaob66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKfqFvpdqpLC8jry0ADGASu1LVVfbaaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143453357042-qvlepd1urrdgge6lqml9gddsonnaob66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
